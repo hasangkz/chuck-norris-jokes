@@ -1,10 +1,10 @@
 # Random Jokes
 
-# I developed a random jokes with html,css(bulma) and javascript.
+## I developed a random jokes with html,css(bulma) and javascript.
 
-# for bulma: https://bulma.io/
+## for bulma: https://bulma.io/
 
-# for apis: https://api.unsplash.com and https://api.chucknorris.io
+## for apis: https://api.unsplash.com and https://api.chucknorris.io
 
 
 
