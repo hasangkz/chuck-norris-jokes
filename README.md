@@ -1,6 +1,4 @@
-# Random Jokes
-
-## I developed a random jokes with html,css(bulma) and javascript.
+## I developed a random jokes creator with html, css(bulma), javascript and axios.
 
 ## for bulma: https://bulma.io/
 
@@ -8,7 +6,7 @@
 
 
 
-## Here are the images from my app:
+### Here are the images from my app:
 
 ![img](https://i.hizliresim.com/4mkatrr.png?raw=true "Title")
 
